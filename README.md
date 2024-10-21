@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gilbertowitkowski
-- 🌱 Currently a systems student and future Full Stack Developer
+- 🌱 Currently a systems student
 
 <!---
 Gilbertowitkowski/Gilbertowitkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
